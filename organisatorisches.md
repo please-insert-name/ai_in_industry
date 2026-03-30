@@ -14,6 +14,9 @@
 ## Accounts, Software
 - Ollama (https://ollama.com/)
 - Claude Code
+---
+## Github
+https://github.com/please-insert-name/ai_in_industry#
 
 # Veranstaltungen
 https://www.th-ab.de/fileadmin/th-ab-redaktion/Stundenplaene/WF.html

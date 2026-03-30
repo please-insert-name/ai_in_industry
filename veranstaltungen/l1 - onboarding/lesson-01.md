@@ -10,6 +10,8 @@
 - Werkzeug
 - ...
 
+- ... und für andere: https://www.linkedin.com/feed/
+
 ## Was bedeutet KI in der Industrie?
 
 - Mustererkennung: Bildverarbeitung, Prozessdaten
@@ -48,6 +50,9 @@ Nächstes Mal: Ergebnisse vorstellen (Seminaristisch)
 - Slide 1: Warum? Bedarf, Painpoints, Relevanz
 - Slide 2: Wie? Lösungskonzept
 - Slide 3: Insights: Wie habe ich gearbeitet? Tipps...
+
+**Slides vorab an mich schicken**
+michael.kroehn@gmx.net
 
 ## Orga
 - 08.04. fällt aus
